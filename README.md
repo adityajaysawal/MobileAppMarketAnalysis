@@ -25,8 +25,6 @@ The dataset contains the following columns:
 
 ## **Key Tasks and SQL Queries**
 
-Here are 20 additional SQL-based questions that could impress recruiters, highlighting various skills related to database management, optimization, and analysis:
-
 1. **Identify the fastest-growing app category**: Write a query to find the top 3 app categories with the highest growth rate in the number of installs over time.
 
 2. **Monthly revenue trends**: Analyze and return the total revenue per month for paid apps, segmented by app category.
