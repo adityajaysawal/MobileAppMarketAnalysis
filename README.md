@@ -68,8 +68,6 @@ free apps for each category based on the ratings of that category.
 you have noted the changes, now you want correct data to be inserted into the database again.
 20. **Optimize app recommendation system**: Use SQL to identify which apps should be featured in a recommendation system by calculating a weighted score that considers both ratings and installs across similar genres.
 
-These questions showcase a broad range of SQL skills that demonstrate not just technical ability, but also insights into business operations and app performance analysis.
-
 ## **Advanced Questions and Queries**
 The project also includes advanced queries, such as identifying the fastest-growing categories, revenue trends, engagement patterns, and potential app fraud. These queries help in understanding app market dynamics and guiding future business strategies.
 
